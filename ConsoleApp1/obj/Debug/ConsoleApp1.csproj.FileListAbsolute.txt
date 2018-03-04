@@ -1,0 +1,9 @@
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Работа\Компании\iAge\Тестовое задание младший C# разработчик\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Иван3",
+    "LastName": "Иванов3",
+    "SalaryPerHour": 123.4
+  },
+  {
+    "Id": 2,
+    "FirstName": "Имя1",
+    "LastName": "Фамилия1",
+    "SalaryPerHour": 10.60
+  },
+  {
+    "Id": 3,
+    "FirstName": "Имя2",
+    "LastName": "Фамилия2",
+    "SalaryPerHour": 11.50
+  },
+  {
+    "Id": 4,
+    "FirstName": "Имя3",
+    "LastName": "Фамилия3",
+    "SalaryPerHour": 11.70
+  },
+  {
+    "Id": 5,
+    "FirstName": "Имя4",
+    "LastName": "Фамилия4",
+    "SalaryPerHour": 11.80
+  },
+  {
+    "Id": 6,
+    "FirstName": "Oleg",
+    "LastName": "Aleynikov",
+    "SalaryPerHour": 101.50
+  }
+]
